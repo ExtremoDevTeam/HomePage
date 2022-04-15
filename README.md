@@ -1,1 +1,3 @@
-# [HomePage](https://extremodevteam.github.io/HomePage/)
+# A3Extremo GitPages
+
+[View page](https://extremodevteam.github.io/HomePage/)
